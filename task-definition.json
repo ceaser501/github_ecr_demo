@@ -3,7 +3,7 @@
   "containerDefinitions": [
     {
       "cpu": 1,
-      "image": "429821123127.dkr.ecr.ap-northeast-2.amazonaws.com/ecr-demo:latest",
+      "image": "429821123127.dkr.ecr.ap-northeast-2.amazonaws.com/ecr-demo",
       "memory": 512,
       "name": "demo",
       "portMappings": [
