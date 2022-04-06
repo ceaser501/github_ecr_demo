@@ -1,5 +1,5 @@
 {
-  "family": "demo",
+  "family": "ecs-demo-task",
   "containerDefinitions": [
     {
       "cpu": 1,
